@@ -33,6 +33,6 @@ streamlit-sportradar-demo/
 
 	Open your browser at http://localhost:8501
 
-	streamlit run st_01.py
+	streamlit run st_02.py
 
 **********************************************************
